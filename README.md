@@ -20,7 +20,7 @@ This document will continue to be updated :)
 
 # Tell me what this file is
 x64 is a folder that mainly contains data about AI in Yolo_mark.
-<pre>
+```bash
 .
 └── Release
     ├── data
@@ -34,9 +34,12 @@ x64 is a folder that mainly contains data about AI in Yolo_mark.
     └── yolo_mark.cmd
 
 3 directories, 625 files
-</pre>
+```
 The data was made, with Yolo_mark where he wanted to judge the authenticity of the label people. , Install Yolo_mark to see the labeling deleted x64 from Yolo_mark. Put it in the x64 folder. <br> <br>
 Since it has not been released yet, we will post a download link after all Colab weight calculations have been completed.
 
 # Our project is dead
 The reason why our project was suspended is very simple. This is why artificial intelligence did not provide adequate data for learning. It's too difficult. I had a lot of data to study, but I didn't have time to label it. It also used Google's Colab because it didn't have such a good computer. Colab was so screwed up because runtime initialization paid off and his work blew away.
+
+# Contact
+If you wanna ask something then add issue on this reporisty. And also all images from <a href="pinterest.co.kr">Pinterest</a>.
